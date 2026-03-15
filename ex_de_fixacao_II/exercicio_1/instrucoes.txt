@@ -1,0 +1,21 @@
+Exercício 1
+Título: Sistema sem uso de classes próprias
+Objetivo: Desenvolver um pequeno sistema de cadastro de produtos sem criar uma classe Produto, utilizando apenas variáveis simples no método main. Ou seja, apenas com o conhecimento aprendido em Computação Aplicada à Resolução de Problemas
+Instruções: 
+Você deve desenvolver um programa em Java para cadastrar 3 produtos de uma loja.
+Cada produto deve possuir:
+Nome
+Preço
+Quantidade em estoque
+O programa deve:
+Declarar as variáveis necessárias para armazenar os dados dos 3 produtos.
+Atribuir valores manualmente a cada variável.
+Exibir os dados de cada produto na tela.
+Calcular e exibir o valor total em estoque de cada produto
+(preço x quantidade).
+Exibir o valor total geral do estoque (somatório de todos os produtos).
+Regras: 
+Não é permitido criar novas classes.
+Todo o código deve ficar dentro do método main.
+Não utilizar arrays, listas ou estruturas mais avançadas.
+Não utilizar os conceitos aprendidos em  POO.
